@@ -1,0 +1,9 @@
+--extra-index-url https://download.pytorch.org/whl/cu128
+torch==2.11.0+cu128
+torchaudio==2.11.0+cu128
+dasheng @ git+https://github.com/RicherMans/Dasheng.git@91bc15c728f08e8d10f741311d8afc42fb33d497
+numpy==2.3.5
+soundfile==0.14.0
+soxr==1.1.0
+matplotlib==3.10.7
+einops==0.8.2
